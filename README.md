@@ -6,4 +6,4 @@ clightning.xml - zabbix template
 
 clight.conf - this must be put in zabbix_agentd.conf.d/
 
-How to set up Zabbix: https://www.zabbix.com/documentation/4.0/manual/installation/getting_zabbix
+How to set up Zabbix: https://www.zabbix.com/documentation/current/manual/installation/getting_zabbix
